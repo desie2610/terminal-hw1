@@ -1,0 +1,21 @@
+{
+  "name": "terminal-hw1",
+  "version": "1.0.0",
+  "description": "це домашка по темы терміналу",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desie2610/terminal-hw1.git"
+  },
+  "keywords": [],
+  "author": "Timofii Moiseienko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desie2610/terminal-hw1/issues"
+  },
+  "homepage": "https://github.com/desie2610/terminal-hw1#readme"
+}
